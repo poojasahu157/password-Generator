@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded" ,() => {
     const allCharacters ={
         Uppercase : "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
         Lowercase: "abcdefghijklmnopqrstuvwxyz",
-        Numbercase: "0123456789",
+        Numbers: "0123456789",
         Symbols: "!@#$%^&*()_+?><|/}~"
     }
     let length = parseInt(range.value);
